@@ -61,6 +61,7 @@ body {
     } .section-assistance {
         margin-top: 40px;
         padding-left: 20px;
+        padding-top: 20px;
         font-size: 1.5em;
         line-height: 50px;
         font-family:Arial, Helvetica, sans-serif;
@@ -69,6 +70,7 @@ body {
         } .section-formation { 
             margin-top: 40px;
             padding-left: 20px;
+            padding-top: 20px;
             font-size: 1.5em;
             line-height: 50px;
             font-family:Arial, Helvetica, sans-serif;
@@ -77,6 +79,7 @@ body {
             } .section-contacter {
                 margin-top: 40px;
                 padding: 20px;
+                padding-top: 20px;
                 font-size: 1.5em;
                 line-height: 50px;
                 font-family:Arial, Helvetica, sans-serif;
@@ -85,6 +88,7 @@ body {
 
                 }.appeller {
                     margin-top: 40px;
+                    padding-top: 20px;
                     border: 3px solid rgba(112,168,85,1) ;
                     border-radius: 10px; 
 
