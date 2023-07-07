@@ -58,6 +58,7 @@ body {
     text-align: center;
     margin-top: 20px;
     margin-bottom: 20px;
+
     } .section-assistance {
         margin-top: 40px;
         padding-left: 20px;
@@ -87,8 +88,6 @@ body {
                 text-align: center;
 
                 }.appeller {
-                    margin-top: 40px;
-                    padding-top: 20px;
                     border: 3px solid rgba(112,168,85,1) ;
                     border-radius: 10px; 
 
