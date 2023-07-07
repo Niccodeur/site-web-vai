@@ -12,7 +12,7 @@ body {
 }
 
 .container-header {
-   
+    padding-bottom: 10px;
     background: rgb(129,129,129);
     background: linear-gradient(90deg, rgba(129,129,129,1) 0%, rgba(112,168,85,1) 100%); 
    
