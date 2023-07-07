@@ -59,6 +59,7 @@ body {
     margin-top: 20px;
     margin-bottom: 20px;
     } .section-assistance {
+        padding-top: 20px;
         padding-left: 20px;
         font-size: 1.5em;
         line-height: 50px;
@@ -66,6 +67,7 @@ body {
         background-color: rgba(173, 197, 173, 0.39);
 
         } .section-formation { 
+            padding-top: 20px;
             padding-left: 20px;
             font-size: 1.5em;
             line-height: 50px;
@@ -73,6 +75,7 @@ body {
             background-color: rgba(173, 197, 173, 0.39);
 
             } .section-contacter {
+                padding-top: 20px;
                 padding: 20px;
                 font-size: 1.5em;
                 line-height: 50px;
@@ -81,13 +84,14 @@ body {
                 text-align: center;
 
                 }.appeller {
+                    padding-top: 20px;
                     border: 3px solid rgba(112,168,85,1) ;
                     border-radius: 10px; 
 
                     } .section-information-sap {
                         margin-top: 40px;
                         padding-left: 20px;
-                        padding-top: 20px ;
+                        padding-top: 20px;
                         font-size: 1.5em;
                         line-height: 50px;
                         font-family:Arial, Helvetica, sans-serif;
