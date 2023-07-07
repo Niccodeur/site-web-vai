@@ -120,7 +120,7 @@ h2 {
                 width: 50px;
                 height: 50px;
 
-                }.icone-contact-facebook {
+                } .icone-contact-facebook {
                     position: relative;
                     right:35px;
                     width: 120px;
@@ -132,23 +132,19 @@ h2 {
                         width: 50px;
                         height: 50px;
 }
-.logo-sap {
+            
+            
+            
+.logo {
     width: 300px;
 }
-.appeller {
-    border: 1px solid black;
-    color: rgba(112,168,85,1);
-    padding: 5px;
-    }.appeller:hover {
-        opacity: 0.5;
-    }
 a {
     color:rgb(7, 7, 7);
     text-decoration: none;
     font-size: 1.5em;
-
-    } a:hover {
-        color: rgba(112,168,85,1);
+}
+a:hover {
+    color: rgba(112,168,85,1);
 }
 
 footer {
@@ -163,5 +159,4 @@ footer {
     display: flex;
     justify-content: space-around;
 }
-
 
