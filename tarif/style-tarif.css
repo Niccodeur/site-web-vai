@@ -110,12 +110,25 @@ table {
             box-shadow: 5px 5px rgb(0, 0, 0, 0.5);              
             padding: 10px;
 
-            } .icone-contact {
-                position: relative;
-                top:10px;
-                width: 50px;
-                height: 50px;
+            } .icone-contact-telephone {
+            position: relative;
+            top:10px;
+            width: 50px;
+            height: 50px;
+
+                } .icone-contact-facebook {
+                    position: relative;
+                    right:35px;
+                    width: 120px;
+                    height: 70px;
+
+                    } .icone-contact-google-map {
+                        osition: relative;
+                        top:10px;
+                        width: 50px;
+                        height: 50px;
 }
+    
 .logo {
     width: 300px;
 }
