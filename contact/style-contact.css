@@ -97,35 +97,48 @@ table {
     justify-content: space-around;
     height: 100px;
 
-    } .numéro {
-        border: 1px solid black;
-        border-radius: 15px 20px 20px 0px ;
-        box-shadow: 5px 5px rgb(0, 0, 0, 0.5);          
-        padding: 10px;
+    } .section-contacter {
+        margin-top: 40px;
+        padding: 20px;
+        font-size: 1.5em;
+        line-height: 50px;
+        font-family:Arial, Helvetica, sans-serif;
+        background-color: rgb(223, 211, 196);
+        text-align: center;
+
+        } .appeller {
+            border: 3px solid rgba(112,168,85,1) ;
+            border-radius: 12px; 
+
+            } .numéro {
+                border: 1px solid black;
+                border-radius: 15px 20px 20px 0px ;
+                box-shadow: 5px 5px rgb(0, 0, 0, 0.5);          
+                padding: 10px;
     
-        } .mail {
-            border: 1px solid black;
-            border-radius: 15px 20px 20px 0px ;
-            box-shadow: 5px 5px rgb(0, 0, 0, 0.5);              
-            padding: 10px;
+                } .mail {
+                    border: 1px solid black;
+                    border-radius: 15px 20px 20px 0px ;
+                    box-shadow: 5px 5px rgb(0, 0, 0, 0.5);              
+                    padding: 10px;
 
-            } .icone-contact-telephone {
-                position: relative;
-                top:10px;
-                width: 50px;
-                height: 50px;
-
-                } .icone-contact-facebook {
-                    position: relative;
-                    right:35px;
-                    width: 120px;
-                    height: 70px;
-
-                    } .icone-contact-google-map {
-                        osition: relative;
+                    } .icone-contact-telephone {
+                        position: relative;
                         top:10px;
                         width: 50px;
                         height: 50px;
+
+                        } .icone-contact-facebook {
+                            position: relative;
+                            right:35px;
+                            width: 120px;
+                            height: 70px;
+
+                            } .icone-contact-google-map {
+                                osition: relative;
+                                top:10px;
+                                width: 50px;
+                                height: 50px;
 }
             
             
